@@ -1,4 +1,4 @@
-# sidraksamuel.github.io<h1>My first mini-project</h1>
+<h1>My first mini-project</h1>
 
 <h2>Who am I and why I am applying for this program?</h2>
 
